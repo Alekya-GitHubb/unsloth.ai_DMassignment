@@ -1,5 +1,5 @@
 
-## 🎯 Project Overview  
+## 🎯 Assignment Overview  
 
 This repository presents a series of **five AI model fine-tuning and reinforcement learning experiments** built using the [Unsloth.ai](https://unsloth.ai) framework.  
 Each notebook explores a different adaptation approach for **open-weight language models (LLMs)** like `smollm2-135M`.  
