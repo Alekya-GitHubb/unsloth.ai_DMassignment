@@ -36,14 +36,6 @@ Watch the complete video presentation explaining the training workflow, results,
 
 ---
 
-| No. | Notebook | Open in GitHub | Launch in Colab |
-|:--:|:--|:--|:--|
-| 1️⃣ | **Full_Finetuning1_ipynb.ipynb** | [View on GitHub](https://github.com/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/Full_Finetuning1_ipynb.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/Full_Finetuning1_ipynb.ipynb) |
-| 2️⃣ | **LoRA_Fine_tuning1.ipynb** | [View on GitHub](https://github.com/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/LoRA_Fine_tuning1.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/LoRA_Fine_tuning1.ipynb) |
-| 3️⃣ | **RL_Training1.ipynb** | [View on GitHub](https://github.com/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/RL_Training1.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/RL_Training1.ipynb) |
-| 4️⃣ | **GRPO.ipynb** | [View on GitHub](https://github.com/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/GRPO.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/GRPO.ipynb) |
-| 5️⃣ | **Continued_pretraining1.ipynb** | [View on GitHub](https://github.com/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/Continued_pretraining1.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alekya-GitHubb/Modern-AI-with-Unsloth/blob/main/Continued_pretraining1.ipynb) |
-
 ## ⚙️ Setup Guide  
 
 To replicate or modify the experiments, install the dependencies below:  
